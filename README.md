@@ -1,7 +1,15 @@
 # S3FNet: Spatial-Spectral Similarity-Guided Fusion Network for Pansharpening
 
+
 - Code for the paper: "Spatial-Spectral Similarity-Guided Fusion Network for Pansharpening", IJCAI 2025.
 
+Jiazhuang Xiong<sup>1</sup>, Yongshan Zhang<sup>1,*</sup>, Xinxin Wang<sup>2</sup>, Lefei Zhang<sup>3</sup>
+
+<sup>1</sup> School of Computer Science, China University of Geosciences
+
+<sup>2</sup> Department of Computer and Information Science, University of Macau
+
+<sup>3</sup> School of Computer Science, Wuhan University
 # Method
 
 ## Overall Structure
